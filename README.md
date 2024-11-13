@@ -3,14 +3,19 @@ This project involves manually archiving a list of the latest disclosed cybersec
 
 # These are the disclosed incidents and trends in the last six weeks
 
+
+## Alleged Scraping of 489 Million Instagram User Records Raises Privacy Concerns
+#### November 11 2024
+- https://dailydarkweb.net/alleged-scraping-of-489-million-instagram-user-records-raises-privacy-concerns/
+- https://gbhackers.com/leak-of-instagram-data/
+
+
 ## Cisco bug lets hackers run commands as root on UWRB access points
 #### November 7 2024
 - https://www.bleepingcomputer.com/news/security/cisco-bug-lets-hackers-run-commands-as-root-on-uwrb-access-points/
 - https://www.techradar.com/pro/security/cisco-issues-patch-that-fixes-serious-flaw-allowing-possible-industrial-systems-takeover
 - https://www.theregister.com/2024/11/07/cisco_uiws_flaw/
 - https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-backhaul-ap-cmdinj-R7E28Ecs
-
-
 
 
 ## Chinese attackers accessed Canadian government networks – for five years

@@ -4,6 +4,16 @@ This project involves manually archiving a list of the latest disclosed cybersec
 # These are the disclosed incidents and trends in the last six weeks
 
 
+## DDoS cyberattack temporarily blocks Israeli credit card payments
+#### November 12 2024
+
+- https://www.timesofisrael.com/ddos-cyberattack-temporarily-blocks-israeli-credit-card-payments/
+- https://thecyberexpress.com/cyberattack-on-credit-card-systems-in-israel/
+- https://securityaffairs.com/170823/hacking/cyberattack-payment-systems-israel.html
+- https://www.jns.org/cyberattack-causes-credit-card-transaction-issues-in-israel/
+
+
+
 ## Alleged Scraping of 489 Million Instagram User Records Raises Privacy Concerns
 #### November 11 2024
 - https://dailydarkweb.net/alleged-scraping-of-489-million-instagram-user-records-raises-privacy-concerns/

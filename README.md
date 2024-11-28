@@ -4,6 +4,26 @@ This project involves manually archiving a list of the latest disclosed cybersec
 # These are the disclosed incidents and trends in the last six weeks
 
 
+
+
+
+
+
+## Ford denies it was hit by data breach, says customer data is safe
+#### November 22 2024
+- https://www.techradar.com/pro/security/ford-denies-it-was-hit-by-data-breach-says-customer-data-is-safe
+#### November 19 2024 (Ford rejects breach allegations, says customer data not impacted)
+- https://www.bleepingcomputer.com/news/security/ford-rejects-breach-allegations-says-customer-data-not-impacted/
+#### Ford 'actively investigating' after employee data allegedly parked on leak site
+- https://www.theregister.com/2024/11/18/ford_actively_investigating_breach/
+
+
+
+
+
+
+
+
 ## DDoS cyberattack temporarily blocks Israeli credit card payments
 #### November 12 2024
 

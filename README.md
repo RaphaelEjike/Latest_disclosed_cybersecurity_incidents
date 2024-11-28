@@ -5,8 +5,10 @@ This project involves manually archiving a list of the latest disclosed cybersec
 
 
 
-
-
+## Palo Alto Globalprotect: Malicious code weakness via weak certificate validation
+#### November 27 2024
+- https://www.heise.de/en/news/Palo-Alto-Globalprotect-Malicious-code-weakness-via-weak-certificate-validation-10178827.html
+- https://security.paloaltonetworks.com/CVE-2024-5921
 
 
 ## Ford denies it was hit by data breach, says customer data is safe
@@ -14,13 +16,8 @@ This project involves manually archiving a list of the latest disclosed cybersec
 - https://www.techradar.com/pro/security/ford-denies-it-was-hit-by-data-breach-says-customer-data-is-safe
 #### November 19 2024 (Ford rejects breach allegations, says customer data not impacted)
 - https://www.bleepingcomputer.com/news/security/ford-rejects-breach-allegations-says-customer-data-not-impacted/
-#### Ford 'actively investigating' after employee data allegedly parked on leak site
+#### November 18 2024 (Ford 'actively investigating' after employee data allegedly parked on leak site)
 - https://www.theregister.com/2024/11/18/ford_actively_investigating_breach/
-
-
-
-
-
 
 
 

@@ -16,7 +16,21 @@ This project involves manually archiving a list of the latest disclosed cybersec
 - https://www.techradar.com/pro/security/top-employee-monitoring-app-leaks-21-million-screenshots-on-thousands-of-users
 
 
+## Marks & Spencer confirms cybersecurity incident amid ongoing disruption
+#### April 22 2025
+- https://techcrunch.com/2025/04/22/marks-spencer-confirms-cybersecurity-incident-amid-ongoing-disruption/
+- https://www.techradar.com/pro/security/marks-and-spencer-has-suffered-a-cyberattack-heres-what-we-know-so-far
+- https://www.computerweekly.com/news/366623085/MS-suspends-all-online-sales-as-cyber-attack-worsens
+- https://www.bleepingcomputer.com/news/security/marks-and-spencer-pauses-online-orders-after-cyberattack
+- https://www.theguardian.com/business/2025/apr/25/marks-and-spencer-pauses-online-orders-cyber-attack-fallout
 
+
+
+
+
+
+
+  
 
 
 

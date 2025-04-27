@@ -9,6 +9,16 @@ This project involves manually archiving a list of the latest disclosed cybersec
 - https://www.scworld.com/brief/web-skimmer-campaign-targets-caritas-spains-donation-sites
 - https://www.wizcase.com/news/caritas-spain-hacked-donor-payment-info-stolen/
 
+## Employee surveillance app exposed 21 million screenshots
+#### April 24 2025
+- https://thecyberwire.com/newsletters/daily-briefing/14/79
+- https://gizmodo.com/an-employee-surveillance-company-leaked-over-21-million-screenshots-online-2000593880
+- https://www.techradar.com/pro/security/top-employee-monitoring-app-leaks-21-million-screenshots-on-thousands-of-users
+
+
+
+
+
 
 
 

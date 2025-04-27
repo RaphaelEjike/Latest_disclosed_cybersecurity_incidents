@@ -3,10 +3,22 @@ This project involves manually archiving a list of the latest disclosed cybersec
 
 # These are the disclosed incidents and trends in the last six weeks
 
+## Cyber Criminals Exploit Pope Francis Death to Launch Global Scams
+#### April 26 2025
+- https://blog.checkpoint.com/research/cyber-criminals-exploit-pope-francis-death-to-launch-global-scams/
+- https://www.scworld.com/brief/web-skimmer-campaign-targets-caritas-spains-donation-sites
+- https://www.wizcase.com/news/caritas-spain-hacked-donor-payment-info-stolen/
+
+
+
+
+
+
+
+
 ## Windows security and resiliency: Protecting your business
 #### November 27 2024
 - https://blogs.windows.com/windowsexperience/2024/11/19/windows-security-and-resiliency-protecting-your-business/
-
 
 ## Palo Alto Globalprotect: Malicious code weakness via weak certificate validation
 #### November 27 2024

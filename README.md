@@ -25,10 +25,26 @@ This project involves manually archiving a list of the latest disclosed cybersec
 - https://www.theguardian.com/business/2025/apr/25/marks-and-spencer-pauses-online-orders-cyber-attack-fallout
 
 
-
 ## WhatsApp vulnerability spreads malicious code
 #### April 11 2025
 - https://www.thesun.co.uk/tech/34380949/worrying-alert-millions-whatsapp-users-check-settings
+
+
+## Malicious campaigns increasingly leveraging YouTube as an attack vector
+#### April 07 2025
+- https://www.thesun.co.uk/tech/34380949/worrying-alert-millions-whatsapp-users-check-settings
+- https://cybernews.com/security/rat-malware-youtube-password-stealer/
+
+
+
+
+
+
+
+
+
+
+
 
 
 

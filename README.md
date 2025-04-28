@@ -26,6 +26,9 @@ This project involves manually archiving a list of the latest disclosed cybersec
 
 
 
+## WhatsApp vulnerability spreads malicious code
+#### April 11 2025
+- https://www.thesun.co.uk/tech/34380949/worrying-alert-millions-whatsapp-users-check-settings
 
 
 

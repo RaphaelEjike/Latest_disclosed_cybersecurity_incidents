@@ -41,6 +41,21 @@ This project involves manually archiving a list of the latest disclosed cybersec
 - https://www.csoonline.com/article/3954652/royal-mail-investigates-data-leak.html
 #### April 02 2025
 - https://www.bleepingcomputer.com/news/security/royal-mail-investigates-data-leak-claims-no-impact-on-operations
+  
+
+## Hackers target Check Point VPNs to breach enterprise networks
+#### May 27 2025
+- https://www.bleepingcomputer.com/news/security/hackers-target-check-point-vpns-to-breach-enterprise-networks/
+#### May 25 2025 (Check Point disclosed a critical zero-day vulnerability (CVE-2024-24919) affecting its Remote Access VPN products.) 
+- https://www.csoonline.com/article/2129955/check-point-vpns-exploited-to-breach-enterprise-networks.html
+
+
+
+
+
+## Hijacked Microsoft web domain injects spam into SharePoint servers
+#### March 27 2025
+- https://www.bleepingcomputer.com/news/microsoft/hijacked-microsoft-stream-classic-domain-spams-sharepoint-sites/
 
 
 ## Consumers urged to delete 23andMe data as bankruptcy sparks privacy fears

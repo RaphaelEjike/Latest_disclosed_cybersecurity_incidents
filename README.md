@@ -36,6 +36,16 @@ This project involves manually archiving a list of the latest disclosed cybersec
 - https://cybernews.com/security/rat-malware-youtube-password-stealer/
 
 
+## Royal Mail investigates data leak claims, no impact on operations
+#### April 04 2025
+- https://www.csoonline.com/article/3954652/royal-mail-investigates-data-leak.html
+#### April 02 2025
+- https://www.bleepingcomputer.com/news/security/royal-mail-investigates-data-leak-claims-no-impact-on-operations
+
+
+
+
+
 
 
 

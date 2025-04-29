@@ -43,6 +43,26 @@ This project involves manually archiving a list of the latest disclosed cybersec
 - https://www.bleepingcomputer.com/news/security/royal-mail-investigates-data-leak-claims-no-impact-on-operations
 
 
+## Consumers urged to delete 23andMe data as bankruptcy sparks privacy fears
+#### March 25 2025
+- https://www.reuters.com/business/healthcare-pharmaceuticals/new-york-attorney-general-urges-23andme-users-delete-their-data-2025-03-25
+#### March 24, 2025 (23andMe is filing for bankruptcy. Here's what it means for your genetic data)
+- https://www.npr.org/2025/03/24/nx-s1-5338622/23andme-bankruptcy-genetic-data-privacy
+#### September 13, 2024 (23andMe to pay $30 million in genetics data breach settlement)
+- https://www.bleepingcomputer.com/news/security/23andme-to-pay-30-million-in-genetics-data-breach-settlement/
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -482,11 +502,6 @@ August 16, 2021 (Database Of 3 Million Lebanese Car Owners Is Being Sold Online)
 - https://www.techradar.com/news/a-crackdown-on-piracy-and-illegal-streaming-is-coming
 
 
-
-
-## 23andMe to pay $30 million in genetics data breach settlement
-#### September 13, 2024
-- https://www.bleepingcomputer.com/news/security/23andme-to-pay-30-million-in-genetics-data-breach-settlement/
 
 
 

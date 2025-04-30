@@ -3,11 +3,20 @@ This project involves manually archiving a list of the latest disclosed cybersec
 
 # These are the disclosed incidents and trends in the last six weeks
 
+
+## Hackers target Check Point VPNs to breach enterprise networks
+#### May 27 2025
+- https://www.bleepingcomputer.com/news/security/hackers-target-check-point-vpns-to-breach-enterprise-networks/
+#### May 25 2025 (Check Point disclosed a critical zero-day vulnerability (CVE-2024-24919) affecting its Remote Access VPN products.) 
+- https://www.csoonline.com/article/2129955/check-point-vpns-exploited-to-breach-enterprise-networks.html
+
+
 ## Cyber Criminals Exploit Pope Francis Death to Launch Global Scams
 #### April 26 2025
 - https://blog.checkpoint.com/research/cyber-criminals-exploit-pope-francis-death-to-launch-global-scams/
 - https://www.scworld.com/brief/web-skimmer-campaign-targets-caritas-spains-donation-sites
 - https://www.wizcase.com/news/caritas-spain-hacked-donor-payment-info-stolen/
+
 
 ## Employee surveillance app exposed 21 million screenshots
 #### April 24 2025
@@ -42,17 +51,6 @@ This project involves manually archiving a list of the latest disclosed cybersec
 #### April 02 2025
 - https://www.bleepingcomputer.com/news/security/royal-mail-investigates-data-leak-claims-no-impact-on-operations
   
-
-## Hackers target Check Point VPNs to breach enterprise networks
-#### May 27 2025
-- https://www.bleepingcomputer.com/news/security/hackers-target-check-point-vpns-to-breach-enterprise-networks/
-#### May 25 2025 (Check Point disclosed a critical zero-day vulnerability (CVE-2024-24919) affecting its Remote Access VPN products.) 
-- https://www.csoonline.com/article/2129955/check-point-vpns-exploited-to-breach-enterprise-networks.html
-
-
-
-
-
 ## Hijacked Microsoft web domain injects spam into SharePoint servers
 #### March 27 2025
 - https://www.bleepingcomputer.com/news/microsoft/hijacked-microsoft-stream-classic-domain-spams-sharepoint-sites/
@@ -67,12 +65,13 @@ This project involves manually archiving a list of the latest disclosed cybersec
 - https://www.bleepingcomputer.com/news/security/23andme-to-pay-30-million-in-genetics-data-breach-settlement/
 
 
-
-
-
-
-
-
+## NHS patient data vulnerable software flaw
+####  March 10 2025
+- https://www.computing.co.uk/news/2025/security/nhs-patient-data-vulnerable-software-flaw
+####  March 05 2025 (NHS investigates potential patient data leak at Medefer)
+- https://www.techmonitor.ai/technology/cybersecurity/nhs-medefer-api-vulnerability
+####  March 05 2025 (https://www.computerweekly.com/news/366620174/NHS-investigating-how-API-flaw-exposed-patient-data)
+- https://www.computerweekly.com/news/366620174/NHS-investigating-how-API-flaw-exposed-patient-data
 
 
 

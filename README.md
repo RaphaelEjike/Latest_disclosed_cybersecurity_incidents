@@ -1,7 +1,7 @@
 # Latest disclosed cybersecurity incidents and Cyber trends news
-This project involves manually archiving a list of the latest disclosed cybersecurity incidents from around the world. Over the past six weeks, several significant incidents and emerging trends have surfaced within the cybersecurity landscape. This period has witnessed a series of high-profile cyber attacks, evolving threat vectors, and shifting tactics employed by malicious actors. From ransomware outbreaks targeting critical infrastructure to sophisticated phishing campaigns exploiting human vulnerabilities, the following insights provide a comprehensive overview of the disclosed incidents and trends. By correlating these incidents, I stay abreast of the current threats and gain the knowledge needed to enhance defense strategies and stay ahead of potential threats.
+This project involves manually archiving a list of the latest disclosed cybersecurity incidents from around the world. Over the past few weeks, several significant incidents and emerging trends have surfaced within the cybersecurity landscape. This period has witnessed a series of high-profile cyber attacks, evolving threat vectors, and shifting tactics employed by malicious actors. From ransomware outbreaks targeting critical infrastructure to sophisticated phishing campaigns exploiting human vulnerabilities, the following insights provide a comprehensive overview of the disclosed incidents and trends. By correlating these incidents, I stay abreast of the current threats and gain the knowledge needed to enhance defense strategies and stay ahead of potential threats.
 
-# These are the disclosed incidents and trends in the last six weeks
+# These are the disclosed incidents and trends in the last few weeks
 
 
 ## Hackers target Check Point VPNs to breach enterprise networks
